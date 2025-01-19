@@ -18,3 +18,5 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 ## My Socials:
 <a href="https://www.linkedin.com/in/yoannis-getov-622524306">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+
+---
