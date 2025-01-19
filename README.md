@@ -1,10 +1,9 @@
-# Untributed Aka Yoannis
+# Yoannis
 
-<p> About Me:
+About Me:
 I'm a front-end web developer, I started my journey back in 2024 when i first discovered that I'm interested in programming. Started first with HTML and CSS and then took my journey further when i learned Javascript, since then my passion has grown and took me into the world of programming.
-</p>
 
----
+
 
 ### Tech Stack
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353884/html-5.svg" />
