@@ -1,16 +1,13 @@
-## Hi there 👋
+# Untributed Aka Yoannis
 
-<!--
-**Untributed/Untributed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+I'm a front-end web developer, I started my journey back in 2024 when i first discovered that I'm interested in programming. Started first with HTML and CSS and then took my journey further when i learned Javascript, since then my passion has grown and took me into the world of programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353884/html-5.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452045/js.svg" />
+
+#
