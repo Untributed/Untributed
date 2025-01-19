@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 # My name is Yoannis and I'm using mostly Javascript in making websites
 
