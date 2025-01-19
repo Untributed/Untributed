@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # Expertise:
-Passionate about crafting and developing websites and make the user experience smooth and nice. I specialize in HTML, CSS and Javascript while working on the front end and trying to improve and deliver quality to the people.
+Passionate about crafting and developing websites and make the user experience polished and interactive. I specialize in HTML, CSS and Javascript while working on the front end and trying to improve and deliver quality to the people.
 <br />
 #
 
