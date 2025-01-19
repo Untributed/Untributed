@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm using HTML, CSS and Javascript to make websites.
+Expertise:
+Passionate about crafting and developing websites and make the user experience smooth and nice. I specialize in HTML, CSS and Javascript while working on the front end and trying to improve and deliver quality to the people.
 <br />
 #
 
