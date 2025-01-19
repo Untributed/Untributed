@@ -3,7 +3,7 @@
 I'm using HTML, CSS and Javascript to make websites.
 <br />
 
-About Me:
+# *About Me:*
 I'm a front-end web developer, I started my journey back in 2024 when i first discovered that I'm interested in programming. Started first with HTML and CSS and then took my journey further when i learned Javascript, since then my passion has grown and took me into the world of programming.
 
 ---
