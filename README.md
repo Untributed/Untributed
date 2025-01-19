@@ -9,5 +9,6 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353884/html-5.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg" />
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452045/js.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473731/mysql.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/512317/github-142.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473619/git.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473619/git.svg" />
