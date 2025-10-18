@@ -17,7 +17,7 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354259/react.svg" />
 <img align="left" alt="Python" width="30px" style="paadding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="[https://www.svgrepo.com/show/473731/mysql.svg](https://www.svgrepo.com/show/303251/mysql-logo.svg)" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473731/mysql.svg](https://www.svgrepo.com/show/303251/mysql-logo.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/512317/github-142.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473619/git.svg" />
 <br />
