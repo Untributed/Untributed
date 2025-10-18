@@ -10,9 +10,9 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
-#### 🖥️ Front-End
+### 🖥️ Front-End
 
 <p align="left">
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML5" width="40" height="40" style="margin-right:15px;" />
@@ -25,7 +25,7 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 #
 
-#### 🖥 Back-End
+### 🖥 Back-End
 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/499816/database.svg" />
 <img align="left" alt="Node" height="50px" width="40px" style="padding-right:10px;" 
