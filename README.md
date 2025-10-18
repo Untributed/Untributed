@@ -1,12 +1,12 @@
 # Hi there 👋
 
 # Expertise:
-Passionate about crafting and developing websites and make the user experience polished and interactive. I specialize in HTML, CSS and Javascript while working on the front end and trying to improve and deliver quality to the work I do.
+Passionate about crafting and developing websites and make the user experience polished and interactive. I specialize Javascript while working on the front end and trying to improve and deliver quality to the work I do.
 <br />
 #
 
 # About Me:
-I'm a front-end web developer, I started my journey back in 2024 when i first discovered that I'm interested in programming. Started first with HTML and CSS and then took my journey further when i learned Javascript, since then my passion has grown and took me into the world of programming.
+I'm a Full-stack developer, I started my journey back in 2024 when i first discovered that I'm interested in programming. Started first with HTML and CSS and then took my journey further when i learned Javascript, since then my passion has grown and took me into the world of programming.
 
 ---
 
