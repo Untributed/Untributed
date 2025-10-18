@@ -46,13 +46,13 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 ### 📱 My Socials
 
-<a href="https://www.linkedin.com/in/yoannis-getov-622524306" target="_blank"> 
+<a href="https://www.linkedin.com/in/yoannis-getov-622524306" target="_blank" rel="noopener noreferrer"> 
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448234/linkedin.svg" /> </a>
 
-<a href="https://www.instagram.com/lucifers_lilhelper" target="_blank">
+<a href="https://www.instagram.com/lucifers_lilhelper" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /> <a/>
 
 
-<a href="https://discord.com/users/300653705240379392" target="_blank">
+<a href="https://discord.com/users/300653705240379392" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" /> <a/>
 
