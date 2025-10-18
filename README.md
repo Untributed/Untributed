@@ -59,7 +59,7 @@ I'm a Full-stack software engineer, I started my journey back in 2024 when i fir
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448234/linkedin.svg" /> </a>
 
 <a href="https://www.instagram.com/lucifers_lilhelper" target="_blank">
-<img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /> <a/>
+<img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /> </a>
 
 <a href="https://discord.com/users/300653705240379392" target="_blank">
-<img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" /> <a/>
+<img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" /> </a>
