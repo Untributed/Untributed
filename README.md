@@ -23,7 +23,6 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
 </p>
 
-#
 
 ### 🖥 Back-End
 
