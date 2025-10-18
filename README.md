@@ -20,6 +20,8 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354259/react.svg" />
 
+#
+
 ## Back-End
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/499816/database.svg" />
 
