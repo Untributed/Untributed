@@ -13,7 +13,7 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 ### Tech Stack
 
 ## Front-End
-<img align="left" alt="HTML" width="35px" height="100px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353884/html-5.svg" />
+<img align="left" alt="HTML" width="35px" style="height:-10px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353884/html-5.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg" />
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452045/js.svg" />
 <img align="left" alt="Python" width="30px" style="paadding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
