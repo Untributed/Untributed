@@ -36,9 +36,8 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
   <img src="https://www.svgrepo.com/show/217753/github.svg" alt="Github" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
   <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="48" height="48" style="margin-right:10px; vertical-align:middle; position:relative; top:-4px;" />
 </p>
-<br />
 
-#
+---
 
 ### 📱 My Socials:
 <a href="https://www.linkedin.com/in/yoannis-getov-622524306"> 
