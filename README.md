@@ -52,9 +52,6 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 <a href="https://www.instagram.com/lucifers_lilhelper" target="_blank">
 <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg" /> <a/>
 
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](300653705240379392)
-
 <a href="https://discord.com/users/300653705240379392" target="_blank">
 <img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" /> <a/>
 
