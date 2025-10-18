@@ -10,7 +10,7 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 ---
 
-### 🧩 Tech Stack
+### 🔧 Tech Stack
 
 #### 🖥️ Front-End
 
