@@ -34,10 +34,9 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 ### ♾️ Cloud
 
 <p align="left">
-  <img src="https://www.svgrepo.com/show/217753/github.svg" alt="Github" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="48" height="48" style="margin-right:10px; vertical-align:middle; position:relative;" />
+  <img src="https://www.svgrepo.com/show/373623/git.svg" alt="Git" width="38" height="38" style="margin-right:10px; vertical-align:middle; position:relative; top:-2px;" />
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
 </p>
-
 ---
 
 ### 📱 My Socials:
