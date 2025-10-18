@@ -53,5 +53,5 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 
 <a href="https://www.discord.com/Untributed">
-<img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/Discord.svg" /> <a/>
+<img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" /> <a/>
 
