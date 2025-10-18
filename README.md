@@ -10,17 +10,18 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 ---
 
-### Tech Stack
+### 🧩 Tech Stack
 
-## Front-End
-<div style="align-items:center;">
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353884/html-5.svg" />
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg" />
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452045/js.svg" />
-<img align="left" alt="Python" width="30px" style="paadding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
-<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354259/react.svg" />
-</div>
+#### 🖥️ Front-End
+
+<p align="left">
+  <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML5" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="38" height="38" style="margin-right:10px;" />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="38" height="38" style="margin-right:10px;" />
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="38" height="38" style="margin-right:10px;" />
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="38" height="38" style="margin-right:10px;" />
+</p>
 
 #
 
