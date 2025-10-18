@@ -48,7 +48,7 @@ I'm a Full-stack software engineer, I started my journey back in 2024 when i fir
 
 <p align="left">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
-  <img src="https://static.canva.com/domain-assets/canva/static/images/favicon-1.svg" alt="Canva" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
+  <img src="https://static.canva.com/domain-assets/canva/static/images/favicon-1.ico" alt="Canva" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
 </p>
 
 ---
