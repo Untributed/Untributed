@@ -25,7 +25,7 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 #
 
-#### Back-End
+#### 🖥 Back-End
 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/499816/database.svg" />
 <img align="left" alt="Node" height="50px" width="40px" style="padding-right:10px;" 
@@ -33,14 +33,14 @@ src="https://www.svgrepo.com/show/376337/node-js.svg" />
 
 #
 
-## Cloud
+## ♾️ Cloud
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/512317/github-142.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473619/git.svg" />
 <br />
 
 #
 
-### My Socials:
+### 📱 My Socials:
 <a href="https://www.linkedin.com/in/yoannis-getov-622524306"> 
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448234/linkedin.svg" /> </a>
 
