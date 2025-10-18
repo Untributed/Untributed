@@ -25,7 +25,7 @@ I'm a Full-stack software engineer, I started my journey back in 2024 when i fir
 ### 🛠️ Frameworks
 
 <p align="left">
-  <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" alt="React" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
+  <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=4" alt="Tailwind" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
 </p>
 
