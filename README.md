@@ -20,9 +20,13 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
   <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
   <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
-  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
 </p>
 
+### 🛠️ Frameworks
+
+<p align="left">
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="38" height="38" style="margin-right:10px; vertical-align:middle;" />
+</p>
 
 ### ⚙️ Back-End 
 
