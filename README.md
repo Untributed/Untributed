@@ -28,7 +28,7 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 <p align="left">
   <img src="https://www.svgrepo.com/show/499816/database.svg" alt="MySQL" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-  <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="Node" width="60" height="60" style="margin-right:10px; vertical-align:bottom;" />
+  <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="Node.js" width="48" height="48" style="margin-right:10px; vertical-align:middle; position:relative; top:-4px;" />
 </p>
 
 #
