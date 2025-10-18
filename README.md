@@ -11,13 +11,19 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 ---
 
 ### Tech Stack
+
+## Front-End
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353884/html-5.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg" />
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452045/js.svg" />
 <img align="left" alt="Python" width="30px" style="paadding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354259/react.svg" />
+
+## Back-End
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/499816/database.svg" />
+
+## Cloud
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/512317/github-142.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473619/git.svg" />
 <br />
