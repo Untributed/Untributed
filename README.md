@@ -16,11 +16,11 @@ I'm a front-end web developer, I started my journey back in 2024 when i first di
 
 <p align="left">
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML5" width="40" height="40" style="margin-right:15px;" />
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40" style="margin-right:15px;" />
-  <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="38" height="38" style="margin-right:15px;" />
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="38" height="38" style="margin-right:15px;" />
-  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="38" height="38" style="margin-right:15px;" />
-  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="38" height="38" style="margin-right:15px;" />
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40" style="margin-right:25px;" />
+  <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="38" height="38" style="margin-right:25px;" />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="38" height="38" style="margin-right:25px;" />
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="38" height="38" style="margin-right:25px;" />
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="38" height="38" style="margin-right:25px;" />
 </p>
 
 #
